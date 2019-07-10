@@ -1,4 +1,1 @@
-# dimoshqa.github.io
-site MoGo
-
-Test of hosting adaptive site.
+<b>Test of hosting adaptive site.</b>
